@@ -1,0 +1,26 @@
+header{
+    margin-top: 70px;
+}
+body{
+    background: #7197d1;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+    color: antiquewhite;
+    font-family: fantasy;
+}
+p{
+    font-size: 18px;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 600px;
+}
+.img_contato{
+    margin: 0px;
+    width: 30px;
+}
+footer{
+    margin-bottom: 30px;
+}
